@@ -1,0 +1,30 @@
+{
+    "name": "ellisfan/weather",
+    "description": "A weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ellisfan",
+            "email": "ellisfan07@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EllisFan\\Weather\\": "./src"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.1"
+    },
+    "require-dev": {
+        "mockery/mockery": "^1.2",
+        "phpunit/phpunit": "^9.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EllisFan\\Weather\\ServiceProvider"
+            ]
+        }
+    }
+}

@@ -4,7 +4,8 @@
 
 <p align="center">基于 <a href="https://github.com/overtrue/weather">overtrue/weather</a> 开发，增加由IP和Location判断来源城市查询天气</p>
 
-[![Tests](https://github.com/ellisfan/weather/actions/workflows/tests.yml/badge.svg)](https://github.com/ellisfan/weather/actions/workflows/tests.yml)
+[![Tests](https://github.com/ellisfan/weather/actions/workflows/tests.yml/badge.svg)](https://github.com/ellisfan/weather/actions/workflows/tests.yml) [![GitHub stars](https://img.shields.io/github/stars/ellisfan/weather)](https://github.com/ellisfan/weather/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/ellisfan/weather?style=flat&label=last)](https://github.com/ellisfan/weather/commits) ![Packagist Version (custom server)](https://img.shields.io/packagist/v/ellisfan/weather) ![Packagist Downloads (custom server)](https://img.shields.io/packagist/dm/ellisfan/weather) ![GitHub](https://img.shields.io/github/license/ellisfan/weather)
+
 
 ## 安装
 
